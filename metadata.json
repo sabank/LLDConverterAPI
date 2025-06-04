@@ -1,0 +1,5 @@
+{
+  "name": "Alberta LLD to Lat/Long Converter",
+  "description": "A web application to convert Alberta Legal Land Descriptions (LLDs) to approximate latitude and longitude coordinates (centroid of Quarter Section). It also provides information about the ATS system and guidance on deployment.",
+  "requestFramePermissions": []
+}
